@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_refresh_white_48dp.png",
+        "source": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_refresh_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_chevron_right_black_48dp.png",
+        "source": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_chevron_right_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_account_circle_green_a700_48dp.png",
+        "source": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_account_circle_green_a700_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_cloud_queue_green_700_48dp.png",
+        "source": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cloud_queue_green_700_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_cloud_off_red_700_48dp.png",
+        "source": "C:\\Users\\EDNER\\Documents\\MEGAsync\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cloud_off_red_700_48dp.png"
+    }
+]

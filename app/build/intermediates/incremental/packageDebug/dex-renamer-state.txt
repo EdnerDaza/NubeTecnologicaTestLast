@@ -1,0 +1,7 @@
+#Sun Jan 22 18:17:21 COT 2017
+base.0=C\:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_79e5e341760cbaad6591b9d6bf313ada83af2769
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_127b643eb5caf6f462d7421972dc6c44d727b824\\classes.dex
+base.1=C\:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_127b643eb5caf6f462d7421972dc6c44d727b824
+file.0=C\:\\Users\\EDNER\\Documents\\MEGAsync\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_79e5e341760cbaad6591b9d6bf313ada83af2769\\classes.dex

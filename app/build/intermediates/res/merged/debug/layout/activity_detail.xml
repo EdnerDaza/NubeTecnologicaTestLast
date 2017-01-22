@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar"
+    tools:context="com.ednerdaza.nubetecnologica.fuentededatos.mvc.controllers.activities.DetailActivity">
+
+    <TextView
+        android:id="@+id/textview_details"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:padding="@dimen/deafult_padding_10"
+        android:text="@string/title"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:id="@+id/scrollview_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/textview_details"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/linearlayout_scrollview_details"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/iv_image_url_detail"
+                android:src="@drawable/loadingimagebanner"
+                android:background="@null"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:contentDescription="@string/imagen_url_descripcion" />
+
+            <LinearLayout
+                android:id="@+id/lly_info_detail"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tv_summary_detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15sp"
+                    android:padding="10dp"
+                    android:textColor="@color/colorWhite"
+                    android:text="@string/summary"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
