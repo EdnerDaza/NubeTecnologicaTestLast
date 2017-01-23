@@ -9,7 +9,7 @@ public class GlobalConfig {
 
     public static String BASE_URL = "https://api.myjson.com/";
     public static String BASE_URL_SERVICES = BASE_URL+"bins/";
-    public static String BASE_JSON = "15sdc7.json";
+    public static String BASE_JSON = "atnpj.json";
     public static String BASE_URL_SERVICE_ENTRIES = BASE_URL_SERVICES+BASE_JSON;
 
 }
